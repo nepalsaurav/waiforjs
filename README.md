@@ -1,3 +1,3 @@
 # waiforjs
 
-wait for element until it appera in dom
+wait for element until it appear in dom
