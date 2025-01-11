@@ -50,7 +50,4 @@ function elementReady(selector, xpath, tiemout) {
 }
 
 
-elementReady('a', false, 5000).then((e) => {
-    e.click()
-})
 
